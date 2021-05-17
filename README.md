@@ -23,4 +23,4 @@ I did two endpoints using _GET_ http method, one is **'/check_versions'** that u
 
 I didnt do any frontend, so you can use tools like [Postman](https://www.postman.com/) or [Insomnia](https://insomnia.rest/) to check these endpoints:
 
-[check_versions_basic](localhost:5000/check_versions_basic) and [check_versions](localhost:5000/check_versions)
+[check_versions_basic](http://localhost:5000/check_versions_basic) and [check_versions](http://localhost:5000/check_versions)
